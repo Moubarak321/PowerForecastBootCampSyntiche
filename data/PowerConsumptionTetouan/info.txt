@@ -16,5 +16,3 @@ power consumption of zone 2 of Tetouan city (KW).
 power consumption of zone 3 of Tetouan city (KW). 
 
 https://archive.ics.uci.edu/ml/datasets/Power+consumption+of+Tetouan+city#
-
-https://towardsdatascience.com/time-series-forecasting-on-power-consumption-273d56768b99
